@@ -1,0 +1,138 @@
+.section__1 {
+	position: absolute;
+	left: 11.57%;
+	right: 60.61%;
+	top: 5.08%;
+	bottom: 70.18%;
+    height: 33vh;
+
+	/* Grey shades/White_2 */
+
+	background: #f6f6f6;
+	border-radius: 11px;
+}
+
+.section1__h1 {
+	position: absolute;
+	left: 6%;
+
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 19px;
+	/* identical to box height */
+
+	text-transform: capitalize;
+
+	/* Grey shades/Black_2 */
+
+	color: #2e2e2e;
+}
+
+.section1__Icon {
+	position: absolute;
+	left: 92.9%;
+	right: 61.57%;
+	top: 3.77%;
+	bottom: 90.76%;
+
+	/* B1 */
+}
+
+.section1__Account {
+	position: absolute;
+	left: 8.57%;
+	right: 83.38%;
+	top: 20.55%;
+	bottom: 85.81%;
+}
+
+.section1__name {
+	position: absolute;
+	left: 17.35%;
+	top: 16.2%;
+	bottom: 86.33%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 19px;
+	/* identical to box height */
+
+	text-transform: capitalize;
+
+	/* Grey shades/Hover grey */
+
+	color: #515151;
+}
+
+.section1__group {
+	position: absolute;
+	left: 88.9%;
+	right: 61.55%;
+	top: 27.24%;
+	bottom: 85.42%;
+}
+
+.section1__circle {
+	position: absolute;
+	left: 8.57%;
+	right: 83.38%;
+	top: 45.55%;
+	bottom: 85.81%;
+}
+
+.section1__student {
+	position: absolute;
+	left: 17.35%;
+	top: 42.02%;
+	bottom: 81.51%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 19px;
+	/* identical to box height */
+
+	text-transform: capitalize;
+
+	/* Grey shades/Hover grey */
+
+	color: #515151;
+}
+
+.section1__timelapse {
+	position: absolute;
+	left: 8.57%;
+	right: 83.38%;
+	top: 70.55%;
+	bottom: 85.81%;
+}
+
+.section1__activity {
+	position: absolute;
+	left: 17.35%;
+	top: 62.03%;
+	bottom: 72.72%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+
+	/* B1 */
+
+	color: #2e2e2e;
+}
+
+.section1__button {
+	position: absolute;
+	top: 72.66%;
+	left: 75%;
+	padding: 1px 25px;
+	color: #0047b1;
+}

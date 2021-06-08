@@ -1,0 +1,45 @@
+.progressBar {
+	display: flex;
+	flex-direction: column;
+	width: 13vw;
+	height: 20vh;
+	margin-top: -4vh;
+	margin-bottom: 2vh;
+}
+.progress-Conatiner {
+	font-family: "Roboto";
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	padding-bottom: 10px;
+}
+
+.star-Conatiner {
+	display: flex;
+	flex-direction: column;
+	margin-left: 50px;
+	height: 20vh;
+	align-items: center;
+}
+.Ratings{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 40%;
+}	
+.StarText{
+	text-align: center;
+	margin-top: 15px;
+	font-family: 'Roboto';
+}
+.container {
+	display: flex;
+	/* position: absolute; */
+	flex-direction: row;
+	margin-left: 46.05%;
+	margin-right: 11.64%;
+	margin-top: 2.2%;
+	margin-bottom: 69.53%;
+	background: #f6f6f6;
+	border-radius: 11px;
+}
