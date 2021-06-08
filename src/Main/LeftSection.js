@@ -13,7 +13,7 @@ function LeftSection() {
 			<h1 className="section1__h1">Batch Name | PHY 1</h1>
 			<EditIcon className="section1__Icon" />
 			<AccountBoxIcon className="section1__Account" />
-			<h1 className="section1__name">Bidit Mangal</h1>
+			<h1 className="section1__name">Mansi Gaurav</h1>
 			<GroupAddIcon className="section1__group" fontSize="large" />
 			<AccountCircleIcon className="section1__circle" />
 			<h1 className="section1__student">125 Students</h1>
